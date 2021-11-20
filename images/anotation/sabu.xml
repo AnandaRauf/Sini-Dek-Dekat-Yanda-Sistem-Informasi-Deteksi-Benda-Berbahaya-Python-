@@ -1,0 +1,38 @@
+<annotation>
+	<folder>gambar</folder>
+	<filename>sabu.jpg</filename>
+	<path>E:\Punya Rauf\Tugas kelompok 6 VR Programming\deteksi_benda_berbahaya\asset\gambar\sabu.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jenis Benda: Narkotika dan Narkoba</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>73</ymin>
+			<xmax>597</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nama Benda: Sabu-sabu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>73</ymin>
+			<xmax>597</xmax>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+</annotation>

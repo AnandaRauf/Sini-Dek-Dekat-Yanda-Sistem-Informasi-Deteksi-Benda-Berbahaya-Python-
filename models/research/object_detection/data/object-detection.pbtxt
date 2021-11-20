@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'Jenis Benda: Benda Tajam'
+}
+item {
+  id: 2
+  name: 'Nama Benda: Pisau'
+}
+item {
+  id: 3
+  name: 'Jenis Benda: Narkotika dan Narkoba'
+}
+item {
+  id: 4
+  name: 'Nama Benda: Sabu-sabu'
+}
+item {
+  id: 5
+  name: 'Jenis Benda: Narkotika dan Narkoba'
+}
+item {
+  id: 6
+  name: 'Nama Benda: Sabu-Sabu'
+}

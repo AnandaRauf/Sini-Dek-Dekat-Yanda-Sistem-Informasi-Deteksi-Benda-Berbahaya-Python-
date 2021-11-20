@@ -1,0 +1,4 @@
+Jenis benda : Tajam
+Nama benda : Pisau
+Jenis benda : Narkotika
+Nama benda : Sabu
